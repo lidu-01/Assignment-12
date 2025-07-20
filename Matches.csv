@@ -1,0 +1,10 @@
+Match_ID,Date,Sport,Home_Team,Away_Team,Home_Team_Odds,Away_Team_Odds,Draw_Odds,Predicted_Winner,Actual_Winner
+M00001,2024-01-24,Basketball,Gonzalezmouth Tigers,Hernandezfurt Lions,3.62,3.99,,Hernandezfurt Lions,Hernandezfurt Lions
+M00004,2024-08-02,Tennis,Lake Samantha Eagles,Simonshire Lions,3.7,3.61,,Simonshire Lions,Lake Samantha Eagles
+M00009,2024-06-26,Hockey,Lake Karen Bears,Lake Jennifer Lions,1.35,1.89,4.88,Lake Jennifer Lions,Lake Karen Bears
+M00003,2025-04-10,Baseball,Aliciaport Lions,West Gabrielton Lions,3.93,3.29,,Aliciaport Lions,Aliciaport Lions
+M00025,2024-04-30,Football,Terryhaven Lions,New Lisa Lions,4.51,4.07,3.03,Draw,Draw
+M00027,2025-05-14,Hockey,North Ronald Wolves,East Derrick Eagles,2.54,4.84,4.14,Draw,East Derrick Eagles
+M00029,2024-02-25,Football,West James Lions,East Erin Bears,4.91,1.4,4.95,West James Lions,Draw
+M00034,2023-09-04,Baseball,Palmerfurt Bears,Flowersside Tigers,1.96,3.23,,Palmerfurt Bears,Flowersside Tigers
+M00042,2023-12-26,Basketball,West James Lions,Carrilloview Lions,3.33,1.24,,Carrilloview Lions,West James Lions
